@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul{
+   
+    text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+}
+.divNew{
+    display: flex;
+}
